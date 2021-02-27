@@ -1,0 +1,9 @@
+Package: romics
+Type: Package
+Title: Simulate omics datasets
+Version: 1.0
+Date: 2021-02-27
+Author: Michael Komodromos [aut, cre]
+Maintainer: Michael Komodromos <mk1019@ic.ac.uk>
+Description: Simulate omics datasets.
+License:
